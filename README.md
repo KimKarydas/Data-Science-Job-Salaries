@@ -1,4 +1,4 @@
-
+![Alt Text](tech_image.jpg)
 
 # Data-Science-Job-Salaries
 
